@@ -1,0 +1,10 @@
+//create a new repository on the command line
+
+git init -->git ta activate hobe.one time each project to start git
+
+git add . --> folder er file gulo add kora.every time too add something
+
+git commit -m "first commit"   -->file e ki ki change hocce tai dekhay
+git branch -M main
+git remote add origin https://github.com/Puja-Halder/My-Github.git
+git push -u origin 

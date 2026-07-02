@@ -8,3 +8,10 @@ git commit -m "first commit"   -->file e ki ki change hocce tai dekhay
 git branch -M main
 git remote add origin https://github.com/Puja-Halder/My-Github.git
 git push -u origin 
+
+
+protibar kono kisu add korle 
+git add .
+git commit -m "comment" 
+git push
+
